@@ -1,0 +1,69 @@
+
+a:link{
+        color: blue;              
+    }
+    a:visited{
+        color:black;
+    }
+    a:hover{
+        color:crimson ;      
+    }
+    a:active{
+        color:rgb(231, 247, 15);
+    }
+    a:focus{
+        color:orangered;
+    }
+#page{
+    
+   width: 960px;
+    margin: 0 auto;
+   
+}
+#main{
+    width: 50%;
+    float: left;
+    text-align: justify;
+
+}
+
+.clear{
+    clear: both;
+
+}
+#content{
+    background-color: lightskyblue;
+    padding: 10px;
+}
+#left-sidebar{
+   width: 20%;
+   float: left;
+   margin-right: 3%;
+}
+
+#right-sidebar{
+    width: 20%;
+    float: right;
+}
+h1{
+    color: rgb(241, 94, 241);
+    font-style: italic;
+  
+}
+#abc{
+   font-family: sans-serif;
+    color: purple;
+}
+  
+    
+       
+
+        .service{
+            border: 1px solid crimson;
+            width: 30%;
+            float: left;
+            margin-right: 3%;
+            text-align: center;
+        }
+
+  
